@@ -1,3 +1,3 @@
 # demo
 Learning Github
-author - shradha khapra
+author - Daksh Gupta
